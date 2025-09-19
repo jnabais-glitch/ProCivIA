@@ -1,2 +1,2 @@
-# ProcivIA
+# ProCivIA
 Agente IA direcionado para a Inteligencia em Proteção Civil
